@@ -1,4 +1,4 @@
-Composer Library Template
+JSON Web Token (JWT)
 =========================
 
-This is the skeleton package for development of libraries
+This package help you with JWT generating, refreshing, checking.

@@ -1,6 +1,6 @@
 {
-    "name": "undeadline/composer-skeleton",
-    "description": "This is the skeleton package for development of libraries.",
+    "name": "undeadline/jwt",
+    "description": "JSON Web Token (JWT) library",
     "keywords": ["template", "composer", "package", "library", "starter"],
     "license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "your\\namespace\\": "src/"
+            "undeadline\\jwt\\": "src/"
         }
     }
 }
