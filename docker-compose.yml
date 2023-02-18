@@ -1,0 +1,14 @@
+services:
+
+  skeleton_app:
+
+    image: undeadline/php:latest
+
+    container_name: skeleton_container_default
+
+    tty: true
+
+    working_dir: /var/www
+
+    volumes:
+      - ./:/var/www
